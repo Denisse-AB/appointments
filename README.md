@@ -25,15 +25,9 @@ npm run install
 npm run serve
 ```
 ---
-**Demo** [here](https://denisse-ab.github.io/appointments-SPA/).
+**Preview this template** [here](https://denisse-ab.github.io/app-pages/).
 
 ---
-<p align="center">
-  <img src="client\src\assets\screenshot(1).png" width="450" alt="screenshot">
-  <img src="client\src\assets\screenshot(2).png" width="450" alt="screenshot">
-  <img src="client\src\assets\screenshot(3).png" width="450" alt="screenshot">
-  <img src="client\src\assets\screenshot(4).png" width="450" alt="screenshot">
-</p>
 
 ## Donation
 If you like this project, buy me a cup of :coffee: :wink:
