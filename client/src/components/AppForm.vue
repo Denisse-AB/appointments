@@ -173,7 +173,7 @@ export default {
 
         if (email && name && date && tel && selected && lang) {
           const res = await PostService.insertPost(
-            this.email, this.name, this.date, this.tel, this.selected, this.lang
+            email, name, date, tel, selected, lang
           )
           if (res.status === 201) {
             this.email = ''
